@@ -1,53 +1,27 @@
 ---
-title: Organize Your Life With 10 Simple rule
+title: Top Tips to Entertain The Kids Indoors
 date: 2019-05-14T14:46:10.000+06:00
 description: This is meta description
 type: featured
-image: images/featured-post/post-2.jpg
+image: "/images/deco.jpg"
 categories:
-- Philosophy
+- Family Fun
 tags:
-- Philosophy
+- Kids
+- Art
 - Photos
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+The summer holidays are coming and you're going to need to entertain the kids more than usual. We're all hoping for long sunny days allowing us to go outside and visit the beach, field or playground but are likely fearing a rainy day.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+Well dont fear as we've put together a number of fun ideas that will even help you remember the summer in years to come.
 
+#### Decoupage
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+Decoupage is an art style where you cut out sections of different color paper and then glue them to an object along with using different painting effects. Why not use this simple creative art technique in combination with some of family photos, take a small object from around the house and upcycle it into a cherished piece for the family.
 
+Grab some photos, scissors, glue and any other crafting equipment you have around the house. Cut out your favorite sections of each photo and begin gluing them down onto your chosen object, layering up more sections building a collage of memories. The kids will love getting creative flicking, dripping or blowing paint around over your new masterpiece.
 
-![](../images/post-img.jpg)
+Don't have any photos or crafting gear? websites such a [Walmart Photo](https://photos3.walmart.com/about/prints# "Walmart Photo") offer cheap prints with 1 hour printing options at your local store so you can order at home then head in a pick up your prints at the same time as your glue and paints.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+When your done and the glue has all dried you'll hopefully have some happy kids and a lovely memory of the day. The creative possibilities are endless so you don't have to simply cover the object, you could try and form the photos into certain shapes such as animals or flowers. Why not try mixing in the kids favourite characters too for a piece they'd love to show off to friends.
