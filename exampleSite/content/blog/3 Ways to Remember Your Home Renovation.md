@@ -1,12 +1,12 @@
 ---
-title: 2 ways to remember your home renovation
-date: 2021-07-15T23:00:00+00:00
+title: 3 ways to remember your home renovation
+date: 2021-07-15T23:00:00.000+00:00
 description: Top tips on how to document and remember your home renovation for years
   to come.
 type: featured
 image: "/images/pexels-tamil-king-5043840-1.jpg"
 categories:
-- Valuable Idea
+- Creative Homes
 tags:
 - Memories
 - Home Renovation
@@ -28,6 +28,12 @@ This is a really effective way of recording daily progress, leaving you with a g
 
 There are lots of solutions which make it easy to do and many are attached to high street names you'll already know such as [these available on ASDA Photo](https://www.asda-photo.co.uk/about/photobooks) which even lets you quickly add text descriptions describing the progress you've made in each photo.
 
-Simply take a few photos and write down a couple of notes each day then upload them to the photo book builder, add the comments and order. 
+Simply take a few photos and write down a couple of notes each day then upload them to the photo book builder, add the comments and order.
 
 Shortly after you'll receive a high quality book through the door to keep and remember your journey.
+
+#### Make a Photo Album on Facebook
+
+You're already talking to your friends on Facebook and sharing your family photos, why not document your home renovation there?
+
+Facebook provides a simple set of instructions on creating an album [here](https://www.facebook.com/help/1898942430347350/ "here") and you can even choose which of your friends you'd like to share the album with.
