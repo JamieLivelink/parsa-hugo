@@ -4,7 +4,7 @@ date: 2021-07-15T23:00:00.000+00:00
 description: Top tips on how to document and remember your home renovation for years
   to come.
 type: featured
-image: "/images/renovation.webp"
+image: "/images/renovation-1.webp"
 categories:
 - Creative Homes
 tags:
