@@ -4,7 +4,7 @@ date: 2021-07-15T23:00:00+00:00
 description: Top tips on how to document and remember your home renovation for years
   to come.
 type: featured
-image: "/images/pexels-tamil-king-5043840.jpg"
+image: "/images/pexels-tamil-king-5043840-1.jpg"
 categories:
 - Valuable Idea
 tags:
