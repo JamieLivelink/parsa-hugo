@@ -1,53 +1,33 @@
 ---
-title: Organize Your Life With 10 Simple rule
-date: 2019-05-14T14:46:10.000+06:00
-description: This is meta description
+title: 2 ways to remember your home renovation
+date: 2021-07-15T23:00:00+00:00
+description: Top tips on how to document and remember your home renovation for years
+  to come.
 type: featured
-image: images/featured-post/post-1.jpg
+image: "/images/pexels-tamil-king-5043840.jpg"
 categories:
 - Valuable Idea
 tags:
-- Photos
-- Finance
+- Memories
+- Home Renovation
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+If you've just been given a home improvement grant or are perhaps about to get started on the dream home improvement you've spent lockdown planning this may be the article you didn't know you needed.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+You've no doubt put lots of effort into planning everything so far but have you thought about how you're going to remember this journey? don't worry if not we've got the following tips for you.
 
+#### Writing a blog
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+Blogs are a great way to record life events such as this, you can update daily with photos and write short comments giving you a series of steps you can look back on. Friends and family can even check in and see how things are going whenever they like and can even leave you a comment celebrating your achievements in real time.
 
+[Blogger](https://www.blogger.com/about/) is provided by Google and free to use so even those working on a limited budget can do it.
 
-![](../images/post-img.jpg)
+#### Creating a Photobook
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+This is a really effective way of recording daily progress, leaving you with a great memento to look back on in the future.
+
+There are lots of solutions which make it easy to do and many are attached to high street names you'll already know such as [these available on ASDA Photo](https://www.asda-photo.co.uk/about/photobooks) which even lets you quickly add text descriptions describing the progress you've made in each photo.
+
+Simply take a few photos and write down a couple of notes each day then upload them to the photo book builder, add the comments and order. 
+
+Shortly after you'll receive a high quality book through the door to keep and remember your journey.
