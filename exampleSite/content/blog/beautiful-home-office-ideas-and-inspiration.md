@@ -2,7 +2,7 @@
 categories = ["Creative homes"]
 date = 2019-05-14T08:46:10Z
 description = "This is meta description"
-image = "/images/homeoffice.webp"
+image = "/images/homeoffice-1.webp"
 tags = ["Home Renovation", "Work"]
 title = "Beautiful Home Office Ideas and Inspiration"
 type = "featured"
