@@ -3,7 +3,7 @@ title: Top Tips to Entertain The Kids Indoors
 date: 2019-05-14T14:46:10.000+06:00
 description: This is meta description
 type: featured
-image: "/images/deco.jpg"
+image: "/images/deco.webp"
 categories:
 - Family Fun
 tags:
